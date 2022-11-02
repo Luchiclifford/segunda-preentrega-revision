@@ -337,12 +337,13 @@ color: rgb(3, 0, 0);
 
 .boton {text-decoration:none;
     font-weight:1px;
-    font-size:30px;
+    font-size:25px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color:#ffffff;
     background-color:#090dd3; 
     border: 1px black solid;
     border-radius: 4px;
+    
     
 }
 
